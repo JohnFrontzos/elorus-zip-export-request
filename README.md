@@ -1,6 +1,6 @@
 # Elorus Bulk Zip Request
 
-This Python script automates the archiving of expenses and income invoices for the previous month in the Elorus ERP management system. It retrieves a list of expenses for the previous month, parses the IDs, and archives them using the Elorus API.
+This Python script automates the archiving of expenses and income invoices for the previous month in the Elorus ERP management system. It retrieves a list of expenses and incomes for the previous month, parses the IDs, and archives them using the [Elorus API](https://developer.elorus.com/).
 
 ## Functionality
 
